@@ -1,0 +1,9 @@
+ITC134 SP20 Week 3- Branching and merging
+
+Samuel Mwangi
+
+Week 3 class exercises
+
+ 1)We created  a repo in order to practice branching and merging.
+
+2)We created a branch and made a pull request
